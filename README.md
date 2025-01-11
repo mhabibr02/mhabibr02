@@ -4,9 +4,9 @@
 
 <h2 align="center"> Summary </h2>
 
-I am a Data Analyst in the field of Data Scientist using software such as Python and Excel. I am also studying other supporting software such as Tableau, MySQL and Power BI by 
+<p align="center" > I am a Data Analyst in the field of Data Scientist using software such as Python and Excel. I am also studying other supporting software such as Tableau, MySQL and Power BI by 
 taking online courses and completing assignments to improve my skills with bonus certificates. Thus I want to gain experience and collaborate in obtaining business decisions 
-especially in the data field.
+especially in the data field.</p>
 
 <h2 align="center"> Portofolio </h2>
 
@@ -49,4 +49,4 @@ CPP: Intermediate
 
 <h2 align="center"> Github Stats </h2>
 
-![mhabibr02's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhabibr02&show_icons=true&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mhabibr02&show_icons=true&theme=radical" alt="mhabibr02" /> </p>
