@@ -8,21 +8,6 @@
 taking online courses and completing assignments to improve my skills with bonus certificates. Thus I want to gain experience and collaborate in obtaining business decisions 
 especially in the data field.</p>
 
-<h2 align="center"> Portofolio </h2>
-
-<p align="center" > 
-  <a href="https://mhabibr02.github.io/Portofolio-Website/details/certificate-details1.html"><img src="https://mhabibr02.github.io/Portofolio-Website/details/assets/img/portfolio/certificate-1.png" alt="portofolio1" width="300" /></a> 
-  <a href="https://mhabibr02.github.io/Portofolio-Website/details/certificate-details2.html"><img src="https://mhabibr02.github.io/Portofolio-Website/details/assets/img/portfolio/certificate-2.png" alt="portofolio2" width="300" /></a>
-</p>
-<p align="center" > 
-  <a href="https://mhabibr02.github.io/Portofolio-Website/details/project-details1.html"><img src="https://mhabibr02.github.io/Portofolio-Website/details/assets/img/portfolio/project-1.png" alt="portofolio3" width="300" /></a> 
-  <a href="https://github.com/mhabibr02/Assignment-Digital-Skill-Fair-33.0-Data-Science-Dibimbing"><img src="https://mhabibr02.github.io/Portofolio-Website/details/assets/img/portfolio/assignment-1.png" alt="portofolio4" width="300" /></a> 
-</p>
-<p align="center" > 
-  <a href="https://mhabibr02.github.io/Top-10-Crypto-in-2024/"><img src="https://mhabibr02.github.io/Portofolio-Website/details/assets/img/portfolio/assignment-2.png" alt="portofolio5" width="300" /></a>
-  <a href="https://github.com/mhabibr02/Assignment-Data-Series-15.0-AI-Machine-Learning-Dibimbing"><img src="https://mhabibr02.github.io/Portofolio-Website/details/assets/img/portfolio/assignment-3.png" alt="portofolio6" width="300" /></a>
-</p>
-
 <h2 align="center"> Skills </h2>
 
 <p align="center"> 
