@@ -17,9 +17,6 @@ Python: Intermediate
 Excel: Advance
 </p>
 <p align="center"> 
-Power BI: Beginner
-</p>
-<p align="center"> 
 Tableau: Beginner
 </p>
 <p align="center"> 
@@ -30,6 +27,15 @@ Haskell: Beginner
 </p>
 <p align="center"> 
 CPP: Intermediate
+</p>
+<p align="center"> 
+R Studio: Beginner
+</p>
+<p align="center"> 
+Google Data Studio: Beginner
+</p>
+<p align="center"> 
+Maple: Intermediate
 </p>
 
 <h2 align="center"> Github Stats </h2>
