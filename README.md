@@ -11,31 +11,25 @@ especially in the data field.</p>
 <h2 align="center"> Skills </h2>
 
 <p align="center"> 
+Micorosoft Excel: Advance
+</p>
+<p align="center"> 
 Python: Intermediate
 </p>
 <p align="center"> 
-Excel: Advance
+SQL: Beginner
 </p>
 <p align="center"> 
 Tableau: Beginner
 </p>
 <p align="center"> 
-MySQL: Beginner
-</p>
-<p align="center"> 
-Haskell: Beginner
-</p>
-<p align="center"> 
-CPP: Intermediate
-</p>
-<p align="center"> 
 R Studio: Beginner
 </p>
 <p align="center"> 
-Google Data Studio: Beginner
+Power BI: Beginner
 </p>
 <p align="center"> 
-Maple: Intermediate
+Google Data Studio: Beginner
 </p>
 
 <h2 align="center"> Github Stats </h2>
