@@ -29,7 +29,7 @@ R Studio: Beginner
 Power BI: Beginner
 </p>
 <p align="center"> 
-Google Data Studio: Beginner
+Looker Studio: Beginner
 </p>
 
 <h2 align="center"> Github Stats </h2>
