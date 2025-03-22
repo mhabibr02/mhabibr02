@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hello World!👋 </h1>
 <p> <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=mhabibr02&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhabibr02" alt="mhabibr02" /></a> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst,;I'm+a+Data+Scientist,;I'm+a+Data+Engineer!)](https://git.io/typing-svg)
 <h2>Summary</h2>
@@ -25,7 +24,7 @@ especially in the data field.</p>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=48&id=108784&format=png" alt="Javascript" height="50" /></a>
 <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=48&id=40669&format=png" alt="CPP" height="50" /></a>
 
-<h2 align="center"> Github Stats </h2>
-
+<h2>Github Stats</h2>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhabibr02" alt="mhabibr02" /></a> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mhabibr02&show_icons=true&theme=radical" alt="mhabibr02" /> </p>
 </div>
