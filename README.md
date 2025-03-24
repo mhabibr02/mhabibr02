@@ -23,6 +23,7 @@ especially in the data field.</p>
 <a href="https://web.dev/css?hl=id" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png" alt="CSS" height="50" /></a>   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=48&id=108784&format=png" alt="Javascript" height="50" /></a>
 <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=48&id=40669&format=png" alt="CPP" height="50" /></a>
+<a href="https://www.maplesoft.com/support/install/maple13_install.html" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=48&id=18510&format=png" alt="Maple" height="50" /></a>
 
 <h2>Github Stats</h2>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhabibr02" alt="mhabibr02" /></a> </p>
