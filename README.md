@@ -2,7 +2,7 @@
 <h1>Hello World!👋 </h1>
 <p> <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=mhabibr02&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Analyst,;I'm+a+Data+Scientist,;I'm+a+Data+Engineer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Data+Professional!)](https://git.io/typing-svg)
 <h2>Summary</h2>
 
 <p>I am a dedicated Data Entry professional with hands-on experience 3 month in data collection through web scraping techniques. Using tools such as Instant Data Scraper and Web Scraper, I have developed the ability to efficiently gather, organize, and structure large volumes of information from various online sources. My work focuses on ensuring accuracy, relevance, and completeness in every dataset I produce. I am passionate about transforming raw web data into actionable insights and ensuring that the information I provide is reliable and well-organized. With a strong foundation in web scraping and data entry processes, I am confident in my ability to contribute effectively to data-driven projects and support decision-making through precise and well-curated datasets.</p>
